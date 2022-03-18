@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm norin. idk what to write but i self-taught programming since 12 years old. i still go to school cuz i'm grade 10....  
+I'm norin. idk what to write but i self-taught programming by myself since 12 years old. i still go to school cuz i'm grade 10....  
 School Suck Ass lmaoo  
 
 ### I'm Currently Learning :
