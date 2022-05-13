@@ -9,7 +9,7 @@ School Suck Ass lmaoo
 - Nodejs
 - Python
 - HTML/CSS/JS
-- React (Maybe)
+- Typescript (might switch to it)
 - C#
 
 ### Top Languages
