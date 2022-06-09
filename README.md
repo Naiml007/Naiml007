@@ -9,7 +9,7 @@ School Suck Ass lmaoo
 - Nodejs
 - Python
 - HTML/CSS/JS
-- Typescript (might switch to it)
+- Typescript (might learn it cuz of nuxtjs 3 required ts)
 - C#
 
 ### Top Languages
