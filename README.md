@@ -3,6 +3,8 @@
 I'm norin from Cambodia and i love coding in my free time also making music. i self-taught programming by myself since 12 years old. i still go to school cuz i'm still studying grade 10....  
 School Suck Ass lmaoo  
 
+<img src="https://komarev.com/ghpvc/?username=nyt92&label=Profile%20views&color=0e75b6&style=flat" alt="pfv" />
+
 ### I'm Currently Learning :
 
 - Vue/Nuxt
