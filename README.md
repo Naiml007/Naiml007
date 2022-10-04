@@ -16,6 +16,6 @@ School Suck Ass lmaoo
 
 ### Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyt92&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c&theme=highcontrast" alt="lmao">
+<img src="https://ghreadme.vercel.app/api/top-langs?username=nyt92&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c&theme=highcontrast" alt="lmao">
 
 ### Also ENGLISH IS NOT MY FIRST LANGUAGE
