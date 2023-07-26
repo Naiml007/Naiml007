@@ -13,12 +13,12 @@ const phrases = ref([
 const randomIndex = Math.floor(Math.random() * phrases.value.length);
 
 if (localStorage.getItem("bg") == "natsumi") {
-  document.body.style.backgroundImage = `linear-gradient(0deg, rgba(0, 0, 0, 0.50) 54%, rgba(255, 255, 255, 0) 100%), url(nyt92bg-nasm-theme.png)`;
+  document.body.style.backgroundImage = `linear-gradient(0deg, rgba(0, 0, 0, 0.50) 54%, rgba(255, 255, 255, 0) 100%), url(https://raw.githubusercontent.com/NYT92/nyt92/main/public/nyt92bg-nasm-theme.png)`;
 }
 
 const switchwallpaper = () => {
   localStorage.setItem("bg", "natsumi");
-  document.body.style.backgroundImage = `linear-gradient(0deg, rgba(0, 0, 0, 0.50) 54%, rgba(255, 255, 255, 0) 100%), url(nyt92bg-nasm-theme.png)`;
+  document.body.style.backgroundImage = `linear-gradient(0deg, rgba(0, 0, 0, 0.50) 54%, rgba(255, 255, 255, 0) 100%), url(https://raw.githubusercontent.com/NYT92/nyt92/main/public/nyt92bg-nasm-theme.png)`;
 };
 </script>
 <template>
