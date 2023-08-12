@@ -1,12 +1,12 @@
 ## Hello
-My name is Norin Chamroeun and Im 17 years old that love programming, music and other stuff that im interested in...
+My name is Naimur and Im 17 years old that love programming, music and other stuff that im interested in...
 
 [![](https://visitcount.itsvg.in/api?id=nyt92&icon=1&color=12)](https://visitcount.itsvg.in)
 
 ## Socials
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nyt92)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nyt92official) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@) 
 
 
 ## Favourite Languages & Stacks
