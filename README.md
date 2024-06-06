@@ -29,6 +29,8 @@ My name is Naimur and Im 17 years old that love programming, music and other stu
 - ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 - ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 - ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-- ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) 
+- ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+  <a href="https://app.daily.dev/naimurx"><img src="https://api.daily.dev/devcards/v2/wZ70fORaQNWN1URqWmSmQ.png?type=default&r=wgv" width="356" alt="naimur0_0's Dev Card"/></a>
 
 ### Also ENGLISH IS NOT MY FIRST LANGUAGE
