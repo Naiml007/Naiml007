@@ -31,6 +31,6 @@ My name is Naimur and Im 18 years old that love programming, music and other stu
 - ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 - ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-  <a href="https://app.daily.dev/naimurx"><img src="https://api.daily.dev/devcards/v2/wZ70fORaQNWN1URqWmSmQ.png?type=default&r=wgv" width="356" alt="naimur0_0's Dev Card"/></a>
+ <a href="https://app.daily.dev/naimurx"><img src="https://api.daily.dev/devcards/v2/wZ70fORaQNWN1URqWmSmQ.png?type=wide&r=wgv" width="652" alt="naimur0_0's Dev Card"/></a>
 
 ### Also ENGLISH IS NOT MY FIRST LANGUAGE
