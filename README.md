@@ -33,4 +33,4 @@ My name is Naimur and Im 18 years old that love programming, music and other stu
 
 <a href="https://app.daily.dev/naimurx"><img src="https://api.daily.dev/devcards/v2/wZ70fORaQNWN1URqWmSmQ.png?type=wide&r=4c5" width="652" alt="naimur0_0's Dev Card"/></a>
 
-### Also ENGLISH IS NOT MY FIRST LANGUAGE
+
